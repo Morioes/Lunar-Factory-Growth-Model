@@ -55,8 +55,8 @@ In automated mode, you can configure:
 
 ## Usage Instructions
 
-1. Ensure you have MATLAB installed (R2019b or newer recommended)
-2. Clone this repository to your local machine
+1. Ensure you have MATLAB installed
+2. Clone this repository
 3. Open MATLAB and navigate to the repository directory
 4. Run the main script main.m
 5. Choose between interactive or automated mode when prompted
