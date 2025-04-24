@@ -71,7 +71,3 @@ Both modes generate visualizations showing:
 - Economic performance
 
 Results are saved to directories named interactive_results or automated_results depending on the mode.
-
-## Development
-
-This simulation was developed as part of research into space resource utilization and self-replicating systems. The model incorporates detailed physical and economic constraints based on current understanding of lunar resource processing.
